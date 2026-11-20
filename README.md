@@ -33,3 +33,12 @@ This repository is created for team project collaboration using GitHub.
 This section demonstrates branch creation,
 documentation updates, and pull request workflow
 using GitHub.
+## Latest Update
+
+This project uses GitHub for version control.
+
+### Commit and Push
+- Files are edited.
+- Changes are committed.
+- Changes are saved in the repository.
+- Project updates are tracked using GitHub.
