@@ -41,4 +41,12 @@ This project uses GitHub for version control.
 - Files are edited.
 - Changes are committed.
 - Changes are saved in the repository.
+- ## Login Feature
+
+A new feature branch is created for login functionality.
+
+- Feature: Login
+- Branch: feature-login
+- Purpose: Independent development
+- Workflow: Branch, Commit, Pull Request
 - Project updates are tracked using GitHub.
