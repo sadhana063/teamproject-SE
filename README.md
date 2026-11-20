@@ -28,3 +28,8 @@ This repository is created for team project collaboration using GitHub.
 4. Commit and push
 5. Create Pull Request
 6. Merge changes
+## Branch Collaboration
+
+This section demonstrates branch creation,
+documentation updates, and pull request workflow
+using GitHub.
