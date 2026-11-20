@@ -55,6 +55,12 @@ A new feature branch is created for login functionality.
 
 - Feature: Login
 - Branch: feature-login
+- ## Branch Two Update
+
+This change is made in branch-two.
+
+Branch: branch-two
+Purpose: Demonstrate conflicting changes.
 - Purpose: Independent development
 - Workflow: Branch, Commit, Pull Request
 - Project updates are tracked using GitHub.
