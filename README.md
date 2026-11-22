@@ -67,6 +67,13 @@ This change is made in branch-one.
 
 Branch: branch-one
 Purpose: Demonstrate branch changes.
+## Experiment 25
+
+Repository creation and documentation.
+
+- Repository: TeamProject-SE
+- Purpose: Software Engineering project
+- Status: Completed
 - Purpose: Independent development
 - Workflow: Branch, Commit, Pull Request
 - Project updates are tracked using GitHub.
