@@ -1,4 +1,4 @@
-# Team Project Repository
+# Team Project - main branch update
 
 ## Project Title
 Team Project - Software Engineering
@@ -61,6 +61,12 @@ This change is made in branch-two.
 
 Branch: branch-two
 Purpose: Demonstrate conflicting changes.
+- ## Branch One Update
+
+This change is made in branch-one.
+
+Branch: branch-one
+Purpose: Demonstrate branch changes.
 - Purpose: Independent development
 - Workflow: Branch, Commit, Pull Request
 - Project updates are tracked using GitHub.
